@@ -3,5 +3,9 @@
     "version" : "0.0.1",
     "displayName" : "vulcan Faction",
     "description" : "This faction is created by sohil khan.",
-    "dependencies" : ["core"]
+    "dependencies" : [
+        {
+            "id" : "core"
+        }
+    ]
 }
